@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "ba480508573e25a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "00c2915aeb5d7f96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80293bb6ee69ce45",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81b2a67e4266b1b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a74f5ef6063f021c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "241e07e7fd2bc133",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d7ffdb2fff3d7962",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "976810f66ed68337",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e448657ae02ba6fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7db67a124ad95bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56f944d1467a95a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "480567923641f3be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian Guide.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Obsidian Guide"
+            }
+          },
+          {
+            "id": "3b61b04702b0472c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9e621cc27ba0a566",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian Guide.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Obsidian Guide"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "80293bb6ee69ce45",
+  "lastOpenFiles": [
+    "Notes on People.md",
+    "Critical Reading.md",
+    "Henry David Thoreau.md",
+    "Major Difference between Hinduism and Western Religions.md",
+    "Welcome.md",
+    "create a link.md",
+    "Zone of Proximal Development (ZPD).md",
+    "Obsidian Guide.md",
+    "Genuine appreciation can mean a lot.md",
+    "Zone of Proximal Development.md",
+    "BMW CCU.canvas",
+    "BMW CCU.md",
+    "AI Interventions.md"
+  ]
+}
