@@ -1,0 +1,1 @@
+Kaay tu (manaat) waali harkat practice karne

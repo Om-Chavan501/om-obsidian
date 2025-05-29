@@ -1,4 +1,4 @@
-
+2025-04-27
 
 The Soviet Psychologist [[Lev Vygotsky]] came up with the theory of [[Zone of Proximal Development (ZPD)]]. It states that if a task is very easy for a person to do, he learns nothing, and if a task is very hard for a person to do, he still learns nothing. 
 
