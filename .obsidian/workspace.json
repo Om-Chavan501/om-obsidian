@@ -11,10 +11,14 @@
             "id": "35f6079a72671c73",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -167,6 +171,14 @@
   },
   "active": "35f6079a72671c73",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Sangeet/Songs/Baglyanchi Maal Phule.md",
+    "Sangeet/Songs",
+    "Jnana Prabodhini/Sarabhai Dal/Vijnana Pradarshan 2025/Narlikar Theme Discussion.md",
+    "Jnana Prabodhini/Sarabhai Dal/Vijnana Pradarshan 2025",
+    "Jnana Prabodhini/Sarabhai Dal/Current To Do.md",
+    "!templates/Date.md",
+    "!templates",
     "Testing Git.md",
     "Tan Man Dhan Se Sada Sukhi Ho.md",
     "Main Dashboard.md",
@@ -193,16 +205,8 @@
     "Jnana Prabodhini/Sarabhai Dal Dashboard.md",
     "Jnana Prabodhini/Sarabhai Dal",
     "Jnana Prabodhini/Jayant Narlikar - Nachiket N. Lekh.md",
-    "Jnana Prabodhini",
-    "books/The Power Broker.pdf",
-    "books/The Power Broker.epub",
     "Notes on People.md",
     "Critical Reading.md",
-    "Henry David Thoreau.md",
-    "Major Difference between Hinduism and Western Religions.md",
-    "Welcome.md",
-    "create a link.md",
-    "Zone of Proximal Development (ZPD).md",
     "BMW CCU.canvas"
   ]
 }
