@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "00c2915aeb5d7f96",
+        "id": "1a83ce4cb26fca5b",
         "type": "tabs",
         "children": [
           {
-            "id": "80293bb6ee69ce45",
+            "id": "35f6079a72671c73",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "eb61812177dd5827",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing Git.md",
-                "mode": "source",
-                "source": false
-              },
               "icon": "lucide-file",
-              "title": "Testing Git"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +91,7 @@
               "type": "backlink",
               "state": {
                 "file": "Testing Git.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -162,7 +147,8 @@
               "title": "Outline of Obsidian Guide"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -179,8 +165,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "241e07e7fd2bc133",
+  "active": "35f6079a72671c73",
   "lastOpenFiles": [
+    "Testing Git.md",
     "Tan Man Dhan Se Sada Sukhi Ho.md",
     "Main Dashboard.md",
     "BMW.md",
@@ -209,7 +196,6 @@
     "Jnana Prabodhini",
     "books/The Power Broker.pdf",
     "books/The Power Broker.epub",
-    "Testing Git.md",
     "Notes on People.md",
     "Critical Reading.md",
     "Henry David Thoreau.md",
