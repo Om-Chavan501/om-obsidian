@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "61187791f0e80088",
+        "id": "b9a198ad100a1ea6",
         "type": "tabs",
         "children": [
           {
-            "id": "2d620310d0ee156f",
+            "id": "77d14357913a0ac3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -129,7 +129,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -169,10 +169,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d620310d0ee156f",
+  "active": "77d14357913a0ac3",
   "lastOpenFiles": [
-    "KPIT/Deferred Projects Notes/STIHL Deferred Project Meet.md",
+    "Jnana Prabodhini/Sarabhai Dal/Daily Schedules/2025-06-09 VSD Daily Schedules.md",
+    "Jnana Prabodhini/Sarabhai Dal/Daily Schedules/2025-06-04 VSD Daily Schedules.md",
+    "Tasks/2025-05-07.md",
     "KPIT/Discussion with GK.md",
+    "Daily Logs/2025-06-09.md",
+    "Daily Logs/2025-06-04.md",
+    "Obsidian Guide.md",
+    "Daily Logs",
+    "Jnana Prabodhini/Sarabhai Dal/Karyakarini Baithak/30-04-2025 Karyakarini Baithak.md",
+    "Jnana Prabodhini/Sarabhai Dal/Daily Schedules",
+    "Jnana Prabodhini/Sarabhai Dal/Karyakarini Baithak",
+    "Jnana Prabodhini/Sarabhai Dal/Saptahik Dal",
+    "KPIT/Deferred Projects Notes/STIHL Deferred Project Meet.md",
     "KPIT/25, 05-26 Encounter Team Meeting.md",
     "KPIT/Cummins AI Encounter.md",
     "KPIT/Week 12 May to 16 May - AI Encounters.md",
@@ -191,22 +202,11 @@
     "BMW.md",
     "Baglyanchi Maal Phule.md",
     "Tasks/2025-05-21.md",
-    "Tasks/2025-05-07.md",
     "Tasks",
     "Sangeet/Class/2025, 05-26.md",
     "Sangeet/Class",
     "Sangeet",
-    "KPIT/Deferred Projects Notes",
-    "KPIT",
     "Jnana Prabodhini/Sarabhai Dal/Vijnana Shibir May 2025/Day 1 Baithak.md",
-    "Jnana Prabodhini/Sarabhai Dal/Vijnana Shibir May 2025",
-    "Jnana Prabodhini/Sarabhai Dal/30-04-2025 Karyakarini Baithak.md",
-    "Jnana Prabodhini/Sarabhai Dal/08-05-2024 Karyakarini Baithak.md",
-    "Jnana Prabodhini/Sarabhai Dal/03-05-2025 Saptahik Dal.md",
-    "Jnana Prabodhini/Sarabhai Dal Dashboard.md",
-    "Jnana Prabodhini/Sarabhai Dal",
-    "Jnana Prabodhini/Jayant Narlikar - Nachiket N. Lekh.md",
-    "Notes on People.md",
     "BMW CCU.canvas"
   ]
 }
