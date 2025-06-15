@@ -1,0 +1,15 @@
+- Variable analysis satrat kiva kuthetari Dr Stone ya anime madhle kahi clips dakhavne
+- Variable analysis madhye Flying Cups che videos punarjagrut karne
+- Rojchya baithakit fakta adhava (yuvak specific, mula specific etc) aani pudhchya divsachya niyojanacha recap ghene (visualise karne) (karan niyojan zalele asne apekshit ahe)
+- Chemistry lab nakki reintroduce karavi intensely
+- Satrancha sarav 2 athavdyanpurvi final zalela asava
+- Yuvakanni swatah purna start to end obs pasun data analysis aani report writing paryant prayog karava.
+- Roj ratri tya divsaparyant cha hishob completely final zalele asave.
+- Mulansobat timepass suddha karne
+- Satranmadhye dakhvayche changlya quality che presentations aani relevant videos, references, udaharane tayar asavi
+- Full time आहे अशा commitments दिलेले युवक खूप कमी होते. आणि ज्यांनी दिलेले त्या सर्वांनीच ते पाळले असे झाले नाही. मी हे १-२ दिवस या या वेळात असेन असे यापुढे फार entertain करण्यात येऊ नये.
+- प्रत्येक प्रयोगाच्या गटात एक तरी fulltime युवक असावा ज्याच्या मुलांसोबतच्या connection मध्ये सातत्य राहील
+- 3 tari mothya shibira adhi planned ekatra phsically baithak zalich pahije
+- 
+
+- 
