@@ -5,20 +5,25 @@
     "children": [
       {
         "id": "13b2d7c717988b1f",
+        "id": "b9a198ad100a1ea6",
         "type": "tabs",
         "children": [
           {
             "id": "e548c7784489f858",
+            "id": "77d14357913a0ac3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Jnana Prabodhini/Sarabhai Dal/Nivedane/25, 06-31 ते 25, 06-07.md",
+                "file": "KPIT/Discussion with GK.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "25, 06-31 ते 25, 06-07"
+            }
+              "title": "Discussion with GK"
             }
           }
         ]
@@ -151,7 +156,8 @@
               "title": "Outline of Obsidian Guide"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -169,8 +175,17 @@
     }
   },
   "active": "e548c7784489f858",
+  "active": "77d14357913a0ac3",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Jnana Prabodhini/Sarabhai Dal/Nivedane/25, 06-31 ते 25, 06-07.md",
+    "KPIT/Discussion with GK.md",
+    "Jnana Prabodhini/Sarabhai Dal/Daily Schedules/2025-06-09 VSD Daily Schedules.md",
+    "Jnana Prabodhini/Sarabhai Dal/Daily Schedules/2025-06-04 VSD Daily Schedules.md",
+    "Jnana Prabodhini/Sarabhai Dal/Daily Schedules",
+    "Daily Logs/2025-06-09.md",
+    "Daily Logs/2025-06-04.md",
+    "Daily Logs",
     "Jnana Prabodhini/Sarabhai Dal/Nivedane",
     "Jnana Prabodhini/Sarabhai Dal/Saptahik Dal/Online Meet - 2025-06-04.md",
     "!templates/Date.md",
@@ -187,17 +202,23 @@
     "Jnana Prabodhini/Sarabhai Dal/Saptahik Dal",
     "Jnana Prabodhini/Sarabhai Dal Dashboard.md",
     "Jnana Prabodhini/Sarabhai Dal/Vijnana Pradarshan 2025/Untitled.md",
+    "Jnana Prabodhini/Sarabhai Dal/Vijnana Pradarshan 2025",
+    "Jnana Prabodhini/Sarabhai Dal/Current To Do.md",
+    "!templates/Date.md",
     "!templates",
     "Jnana Prabodhini/Sarabhai Dal/Vijnana Pradarshan 2025",
     "Sangeet/Songs",
     "books/The Power Broker.pdf",
     "books/The Power Broker.epub",
-    "books/Imagined Communities.pdf",
-    "books/Imagined Communities.epub",
     "Testing Git.md",
+    "Tan Man Dhan Se Sada Sukhi Ho.md",
+    "Main Dashboard.md",
+    "BMW.md",
+    "Baglyanchi Maal Phule.md",
     "Tasks/2025-05-21.md",
     "Tasks/2025-05-07.md",
     "Tan Man Dhan Se Sada Sukhi Ho.md",
+    "Tasks",
     "Sangeet/Class/2025, 05-26.md",
     "Main Dashboard.md",
     "KPIT/Deferred Projects Notes/STIHL Deferred Project Meet.md",
